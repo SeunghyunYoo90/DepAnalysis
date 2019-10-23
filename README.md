@@ -1,2 +1,2 @@
-# DepAnalysis
+# Depression Analysis
 predicting depression
